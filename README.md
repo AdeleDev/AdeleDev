@@ -1,22 +1,31 @@
-![banner](hogwarts-legacy-thumb.jpg)
-<p align="center"> <h1 align="center"> Hi, I am Viktoriia <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+![banner](17716.jpg)
+<p align="center"> <h3 align="center"> Hi, Guest, and welcome to my page. My name is Viktoriia  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /></h1>
+         width="45" /></h3>
 <p align="center">
 <a href="mailto:viktoriia.it.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/> </a>
 
 [//]: # (<a href="https://www.linkedin.com/in/__/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=darkblue" alt=""/> </a>)
 </p>
 
-* 🎓 I graduated from [ITMO, Russia](https://en.itmo.ru/en/page/42/Facts_&_Figures.htm) University in 2013 and have a Master degree in Program engineering
-* ⚡️I started my career as Java automation tester in 2011 and continue improving my automation skills (11 years) till now, comparing with the role of QA Lead (6 years)
-* 🙋🏻‍ Had a period of 2 years of improving social skills and public performance 
-as Certified Scrum Master (2 years) in Agile SAFe department of Deutsche Telekom and also  learned product development as Product Owner (half year) 
-* 💻 ️Also did some Java microservice development and bug fixing in Agile team, as Scrum Master role did not take full time
-* 🔎 Now I am interested in programming skills improvement, so I am learning Django Python and Javascript with React, planning to have a look on Go maybe
-* 💞️ I think the best variant of job for me is a mix of different roles in Agile Scrum team, mostly middle Fullstack developer and QA Automation tester roles, 
-but I also like orderliness, so some org. staff is also nice for me
+* 🎓 Graduation: Master degree in Program engineering ([ITMO](https://en.itmo.ru/en/page/42/Facts_&_Figures.htm) University, 2013)
+
+
+* 👷  Career:
+  * ⚡ ️Java automation tester since 2011 till now
+  * ⚡   QA Lead since 2016 till now
+  * 🙋🏻  Worked as Certified Scrum Master for 3 years 
+  * 🙋🏻  Have small experience as Product Owner (half year) 
+  * 💻 ️ Java both microservice and monolith development and bug fixing in Agile team (half year)
+   
+  
+  * 🔎 Current interests and work expectations: 
+    * in process of programming skills improvement, learning Django Python and Javascript with React to become a Fullstack developer
+    * expectation from work: 
+      * different types of tasks in daily work;
+      * it will be preferable to have a mix of Backend developer, QA Automation tester roles and some
+      documentation and org. staff in cool Agile Scrum team
 
 ***
 ### ⚙ GitHub Analytics
@@ -36,12 +45,10 @@ but I also like orderliness, so some org. staff is also nice for me
   ![Java](https://img.shields.io/badge/-☕%20Java-333333?style=flat)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 - Frameworks: &nbsp;
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - Databases:  &nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logoColor=red&logo=oracle)
@@ -110,20 +117,17 @@ but I also like orderliness, so some org. staff is also nice for me
 </table>
 
 
-###  🎓 Certificates
+###  🎓 International certificates
 * <img height="45" width="45" src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png" alt=""/>
   ISTQB Tester Foundation Level (2018)
 * <img height="45" width="45" src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt=""/>
-Professional Scrum Master I (2019)
+  Professional Scrum Master I (2019)
 * <img height="45" width="45" src="https://hsto.org/getpro/moikrug/uploads/company/522/837/878/logo/medium_2e8e8e96756aec26513a90732c61d0f3.jpg" alt=""/>
   Test Manager School (№ 21319, 2019)
 * <img height="45" width="45" src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png" alt=""/>
   ISTQB Automation Tester Advanced Level (2021)
-* <img height="45" width="45" src="https://yt3.googleusercontent.com/-pnsqu0xQYwxMhUVq-HZJHf691DEhTlEl1fZvjUtUwJIKMyTqXDBVvK7d2dSjFUTYdHFpTYvAo8=s900-c-k-c0x00ffffff-no-rj" alt=""/>
-  Python developer (2023)
 
-### 🤍 Hobbies
-* ⚕️ I am interested in medicine and veterinary, so I visit medical webinars from time to time just for myself and got Vet assistant certificate to take right care about my cat =)
-* 🧚 ‍️Permanently try to read something interesting and learn something new in different spheres from programming to writing fairy tales =)
-* ✈️ I like to travel, and I am fan of Thailand, nevertheless do not like sun =)
-* 🏂   Going snowboarding for already 5 years and also dreaming to visit Orlando Harry Potter village again, I am a real fan of this Universe =)
+### 🤍 Hobbies and interests
+* ⚕️ Medicine and veterinary, sometimes visit medical webinars for myself to improve care about my cat =)
+* ✈️ Travelling around the world
+* 🏂   Snowboarding, tennis, taekwondo
