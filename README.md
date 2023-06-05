@@ -22,8 +22,8 @@ but I also like orderliness, so some org. staff is also nice for me
 ### ⚙ GitHub Analytics
 <table style="width:100%">
   <tr>
-       <td><img src="https://github-readme-stats-adeleDev.vercel.app/api?username=AdeleDev&show_icons=true&theme=dark&locale=en&hide_border=true" alt="" /></td>
-       <td><img height="180em" src="https://github-readme-stats-adeleDev.vercel.app/api/top-langs/?username=AdeleDev&langs_count=8&theme=dark&hide_border=true&layout=compact" alt=""></td>
+       <td><img src="https://github-readme-stats-qxg5.vercel.app/api?username=AdeleDev&show_icons=true&theme=dark&locale=en&hide_border=true" alt="" /></td>
+       <td><img height="180em" src="https://github-readme-stats-qxg5.vercel.app/api/top-langs/?username=AdeleDev&langs_count=8&theme=dark&hide_border=true&layout=compact" alt=""></td>
 </tr>
 </table>
 
