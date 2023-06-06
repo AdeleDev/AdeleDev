@@ -104,7 +104,10 @@
   ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=blue)
   ![Youtrack](https://img.shields.io/badge/-YouTrack-333333?style=flat&logo=intellij-idea&logoColor=blueviolet)
   ![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=yellow)
+  
+- Design:
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Tilda](https://img.shields.io/badge/-🖌%20Tilda-333333?style=flat&logo=restAssured)
 
 </tr>
 <tr>
