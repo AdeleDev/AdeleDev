@@ -15,7 +15,7 @@
 * 👷  Career:
   * ⚡ ️Java automation tester since 2011 till now
   * ⚡   QA Lead since 2016 till now
-  * 🙋🏻  Worked as Certified Scrum Master for 3 years 
+  * 🙋🏻  Worked as Certified Scrum Master for 2 years 
   * 🙋🏻  Have small experience as Product Owner (half year) 
   * 💻 ️ Java both microservice and monolith development and bug fixing in Agile team (half year)
    
