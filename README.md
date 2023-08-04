@@ -13,19 +13,12 @@
 
 
 * 👷  Career:
+  * ⚡ Experience in Java developer and JS/React
   * ⚡ ️Java automation tester since 2011 till now
-  * ⚡   QA Lead since 2016 till now
-  * 🙋🏻  Worked as Certified Scrum Master for 2 years 
-  * 🙋🏻  Have small experience as Product Owner (half year) 
+  * ⚡ QA Lead since 2016 till now
+  * 🙋🏻  Certified Scrum Master
+  * 🙋🏻  Have experience as Product Owner
   * 💻 ️ Java both microservice and monolith development and bug fixing in Agile team (half year)
-   
-  
-  * 🔎 Current interests and work expectations: 
-    * in process of programming skills improvement, learning Django Python and Javascript with React to become a Fullstack developer
-    * expectation from work: 
-      * different types of tasks in daily work;
-      * it will be preferable to have a mix of Backend developer, QA Automation tester roles and some
-      documentation and org. staff in cool Agile Scrum team
 
 ***
 ### ⚙ GitHub Analytics
