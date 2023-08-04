@@ -38,10 +38,14 @@
   ![Java](https://img.shields.io/badge/-☕%20Java-333333?style=flat)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+
 
 - Frameworks: &nbsp;
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 
 - Databases:  &nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logoColor=red&logo=oracle)
