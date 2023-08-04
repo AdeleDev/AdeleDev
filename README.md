@@ -13,12 +13,10 @@
 
 
 * 👷  Career:
-  * ⚡ Experience in Java developer and JS/React
-  * ⚡ ️Java automation tester since 2011 till now
-  * ⚡ QA Lead since 2016 till now
-  * 🙋🏻  Certified Scrum Master
-  * 🙋🏻  Have experience as Product Owner
-  * 💻 ️ Java both microservice and monolith development and bug fixing in Agile team (half year)
+  * ⚡ Java developer 1,5+ years, some experience in JS/React
+  * ⚡ ️QA Lead experience 6+ years
+  * 🙋🏻 Certified Scrum Master
+  * 🙋🏻 Have experience as Product Owner
 
 ***
 ### ⚙ GitHub Analytics
