@@ -13,10 +13,8 @@
 
 
 * 👷  Career:
-  * ⚡ Java developer 1,5+ years, some experience in JS/React
-  * ⚡ ️QA Lead experience 6+ years
+  * ⚡ Java developer with 7+ years of QA Automation Lead experience
   * 🙋🏻 Certified Scrum Master
-  * 🙋🏻 Have experience as Product Owner
 
 ***
 ### ⚙ GitHub Analytics
